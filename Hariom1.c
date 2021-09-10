@@ -24,4 +24,5 @@ for(i=0;i<=9;i++){
 }
 	printf("Largest element is %d\n",large);
    	printf("smallest element is %d",small);
+          h
 }
