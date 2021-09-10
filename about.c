@@ -19,3 +19,4 @@ for(i=0;i<=8;i++){
 printf("Largest element is %d\n",arr[0]);
 printf("smallest element is %d\n",arr[9]);
 }
+}
